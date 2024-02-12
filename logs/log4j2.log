@@ -1,0 +1,68 @@
+2024-02-12 19:15:38 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:15:38 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:15:46 INFO  Basetest:51 - WebDriver initialized.
+2024-02-12 19:16:06 INFO  Basetest:63 - Session terminated.
+2024-02-12 19:16:06 INFO  Basetest:65 - WebDriver closed.
+2024-02-12 19:16:06 INFO  Basetest:66 - *************************ENDED*************************
+2024-02-12 19:17:07 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:17:07 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:17:12 INFO  Basetest:51 - WebDriver initialized.
+2024-02-12 19:17:39 INFO  Basetest:51 - WebDriver initialized.
+2024-02-12 19:18:11 INFO  Basetest:63 - Session terminated.
+2024-02-12 19:18:11 INFO  Basetest:65 - WebDriver closed.
+2024-02-12 19:18:11 INFO  Basetest:66 - *************************ENDED*************************
+2024-02-12 19:19:29 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:19:29 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:19:35 INFO  Basetest:51 - WebDriver initialized.
+2024-02-12 19:19:59 INFO  Basetest:51 - WebDriver initialized.
+2024-02-12 19:20:22 INFO  Basetest:63 - Session terminated.
+2024-02-12 19:20:22 INFO  Basetest:65 - WebDriver closed.
+2024-02-12 19:20:22 INFO  Basetest:66 - *************************ENDED*************************
+2024-02-12 19:22:31 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:22:31 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:22:36 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:23:01 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:23:49 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:23:49 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:23:55 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:24:22 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:25:39 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:25:39 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:25:44 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:26:08 INFO  Basetest:65 - Session terminated.
+2024-02-12 19:26:08 INFO  Basetest:67 - WebDriver closed.
+2024-02-12 19:26:08 INFO  Basetest:68 - *************************ENDED*************************
+2024-02-12 19:26:41 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:26:41 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:26:47 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:27:15 INFO  Basetest:64 - Session terminated.
+2024-02-12 19:28:09 INFO  Basetest:41 - *************************STARTED*************************
+2024-02-12 19:28:09 INFO  Basetest:42 - Setting up test environment...
+2024-02-12 19:28:15 INFO  Basetest:52 - WebDriver initialized.
+2024-02-12 19:28:39 INFO  Basetest:64 - Session terminated.
+2024-02-12 19:28:39 INFO  Basetest:66 - WebDriver closed.
+2024-02-12 19:28:39 INFO  Basetest:67 - *************************ENDED*************************
+2024-02-12 19:33:07 INFO  Basetest:37 - *************************STARTED*************************
+2024-02-12 19:33:07 INFO  Basetest:38 - Setting up test environment...
+2024-02-12 19:33:13 INFO  Basetest:48 - WebDriver initialized.
+2024-02-12 19:33:50 INFO  Basetest:60 - Session terminated.
+2024-02-12 19:33:50 INFO  Basetest:62 - WebDriver closed.
+2024-02-12 19:33:50 INFO  Basetest:63 - *************************ENDED*************************
+2024-02-12 19:34:35 INFO  Basetest:37 - *************************STARTED*************************
+2024-02-12 19:34:35 INFO  Basetest:38 - Setting up test environment...
+2024-02-12 19:34:41 INFO  Basetest:48 - WebDriver initialized.
+2024-02-12 19:35:15 INFO  Basetest:60 - Session terminated.
+2024-02-12 19:35:15 INFO  Basetest:62 - WebDriver closed.
+2024-02-12 19:35:15 INFO  Basetest:63 - *************************ENDED*************************
+2024-02-12 19:36:56 INFO  Basetest:37 - *************************STARTED*************************
+2024-02-12 19:36:56 INFO  Basetest:38 - Setting up test environment...
+2024-02-12 19:37:02 INFO  Basetest:48 - WebDriver initialized.
+2024-02-12 19:37:31 INFO  Basetest:60 - Session terminated.
+2024-02-12 19:37:31 INFO  Basetest:62 - WebDriver closed.
+2024-02-12 19:37:31 INFO  Basetest:63 - *************************ENDED*************************
+2024-02-12 19:40:15 INFO  Basetest:36 - *************************STARTED*************************
+2024-02-12 19:40:15 INFO  Basetest:37 - Setting up test environment...
+2024-02-12 19:40:20 INFO  Basetest:47 - WebDriver initialized.
+2024-02-12 19:40:48 INFO  Basetest:59 - Session terminated.
+2024-02-12 19:40:48 INFO  Basetest:61 - WebDriver closed.
+2024-02-12 19:40:48 INFO  Basetest:62 - *************************ENDED*************************
